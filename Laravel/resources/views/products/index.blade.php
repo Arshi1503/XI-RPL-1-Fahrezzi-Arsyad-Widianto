@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h3 class="text-center my-4">Tutorial Laravel 11 untuk Pemula</h3>
+                    <h3 class="text-center my-4">CRUD LARAVEL</h3>
                     <h5 class="text-center"><a href="#">Arshi</a></h5>
                     <hr>
                 </div>
